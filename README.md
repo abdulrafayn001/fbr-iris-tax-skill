@@ -33,7 +33,7 @@ Supports salary, freelance IT-export (s.154A), PSX shares, mutual funds, bank pr
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/fbr-iris-tax-skill.git
+git clone https://github.com/abdulrafayn001/fbr-iris-tax-skill.git
 cp -r fbr-iris-tax-skill/fbr-iris-tax-return ~/.claude/skills/
 ```
 
