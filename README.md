@@ -32,6 +32,14 @@ Supports salary, freelance IT-export (s.154A), PSX shares, mutual funds, bank pr
 
 ## Install
 
+### Claude.ai (no git needed)
+
+1. Download `fbr-iris-tax-return.zip` from the [latest release](../../releases/latest).
+2. In Claude.ai, go to **Settings > Capabilities > Skills** and upload the zip.
+3. Turn the skill on.
+
+### Claude Code
+
 ```bash
 git clone https://github.com/abdulrafayn001/fbr-iris-tax-skill.git
 cp -r fbr-iris-tax-skill/fbr-iris-tax-return ~/.claude/skills/
